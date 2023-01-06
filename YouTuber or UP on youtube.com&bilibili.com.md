@@ -131,6 +131,40 @@ https://space.bilibili.com/178429408
 自从看了这个再也不用写**H<sub>2</sub>SO<sub>4</sub>(浓)** 了毕竟**(con.)**多省事（考试除外，不然～）
 
 > con：**Concentrated solution**
+>
+> 
+
+***
+
+## 稚晖君
+
+https://space.bilibili.com/20259914
+
+电子DIY的up，还是很有水平的，不像~~连代码都写不明白还整花活的何~~
+
+但按照开源的代码还是可以复刻的，乃何我水平不行，深表遗憾
+
+
+
+***
+
+## DIY Perks
+
+https://space.bilibili.com/623512391
+
+https://www.youtube.com/@DIYPerks
+
+这是个什么都做(物理上的)的youtuber，DIY的东西也十分实惠和实用(前提是不把工具算入成本)
+
+A DIY YouTuber who give you detailed instruction which make you could do it too
+
+He really like aluminum (and brass)
+
+英腔真的纯，和适合做听力
+
+<font color='red'>**Caution：Some project maybe dangerous due to improper using saw, drill, etc.  不要在没看懂中文的情况下胡乱操作，否则可能会发生以电流档将万用表接入市电等惨剧**</font>
+
+> I'm Matt, you've watching DIY perks...
 
 
 
