@@ -10,7 +10,7 @@
 
 **一个分享医学知识的up，可以学到许多高级词汇和有意思的医疗案例**
 
-**A  youtuber who share some interesting medical case**
+**A  youtuber who share some interesting medical case in his video**
 
 > 例如在这期视频中: [A Man Drank Suspicious Coconut Water. This Is What Happened To His Brain.](https://www.bilibili.com/video/BV1w84y147TU)
 >
