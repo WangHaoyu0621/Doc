@@ -22,9 +22,27 @@
 
 <font color='red'> **Caution：DON'T watch that channel when you are eating something** </font>
 
->**take care of yourself and be well**
+> **Take care of yourself and be well**
+
+
 
 ***
 
+# Linus Tech Tips
 
+> https://space.bilibili.com/12434430
+>
+> https://www.youtube.com/@LinusTechTips
+
+**一个科技区yotuber，雇了人在b站发字幕版视频，但是并未认识到华强北的恐怖之处，还是有很多有意思的内容的，更新速度极高**
+
+**A Canadian YouTuber, Linus Sebastian, who is best known for creating and hosting YouTube that cover technology. It should be noted that LTT includes about 100 employees, that's why they upload videos so fast.**
+
+> Drop it!
+
+有关youtuber: [Marques Brownlee (MKBHD)](https://www.youtube.com/@mkbhd)
+
+
+
+***
 
