@@ -114,7 +114,7 @@ https://www.youtube.com/@linksphotograph
 
 ## 老弟一号
 
-https://space.bilibili.com/178429408/?spm_id_from=333.999.0.0)
+https://space.bilibili.com/178429408/
 
 其实不是很推荐，因为喜欢看的不用我推荐，不喜欢的推荐没用
 
