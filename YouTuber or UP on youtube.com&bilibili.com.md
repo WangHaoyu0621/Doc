@@ -46,7 +46,7 @@
 
 ## 星球研究所
 
-https://space.bilibili.com/326427334/
+https://space.bilibili.com/326427334
 
 地理方面的up主，拍出来的风景真的好看，就是B站的码率...
 
@@ -66,7 +66,7 @@ https://space.bilibili.com/326427334/
 
 ## 陈老师敲黑板
 
-https://space.bilibili.com/363852103/
+https://space.bilibili.com/363852103
 
 **不必多言**
 
@@ -78,7 +78,7 @@ https://space.bilibili.com/363852103/
 
 ## 影视飓风（狂暴影视）
 
-https://space.bilibili.com/946974/
+https://space.bilibili.com/946974
 
 **影视up，有许多非常棒的短片**
 
@@ -96,7 +96,7 @@ https://space.bilibili.com/946974/
 
 ## Linksphotograph
 
-https://space.bilibili.com/3816626/
+https://space.bilibili.com/3816626
 
 https://www.youtube.com/@linksphotograph
 
@@ -114,7 +114,9 @@ https://www.youtube.com/@linksphotograph
 
 ## 老弟一号
 
-https://space.bilibili.com/178429408/
+https://space.bilibili.com/178429408
+
+这是个数码区up，特点为**阅机无数**以及评测必拆产品(主板)然后**分析电路**，比较硬核
 
 其实不是很推荐，因为喜欢看的不用我推荐，不喜欢的推荐没用
 
