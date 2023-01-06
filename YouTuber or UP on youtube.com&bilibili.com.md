@@ -28,7 +28,7 @@
 
 ***
 
-# Linus Tech Tips
+## Linus Tech Tips
 
 > https://space.bilibili.com/12434430
 >
