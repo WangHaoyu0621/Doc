@@ -24,8 +24,6 @@
 
 > **Take care of yourself and be well**
 
-
-
 ***
 
 ## Linus Tech Tips
@@ -46,3 +44,92 @@
 
 ***
 
+## 星球研究所
+
+https://space.bilibili.com/326427334/
+
+地理方面的up主，拍出来的风景真的好看，就是B站的码率...
+
+*以下哪些词词频最高？*
+
+* 别克
+
+* 梅赛德斯
+
+  
+
+> 快 去 买 书 [doge]
+
+
+
+***
+
+## 陈老师敲黑板
+
+https://space.bilibili.com/363852103/
+
+**不必多言**
+
+建议b站直播阅卷
+
+
+
+***
+
+## 影视飓风（狂暴影视）
+
+https://space.bilibili.com/946974/
+
+**影视up，有许多非常棒的短片**
+
+相机买不起我还看不起吗（第一，给我相机也拍不出来；第二，我连灯都买不起）
+
+强烈安利[达芬奇教程](https://www.bilibili.com/video/BV1B7411A7M1)
+
+想当初赛博何在他的视频里提到影视飓风，起初并未关注，结果后来发现影视飓风简直宝藏，这大抵是赛博何的唯一贡献罢了
+
+> 请问 OpenGate 是什么意思
+
+
+
+***
+
+## Linksphotograph
+
+https://space.bilibili.com/3816626/
+
+https://www.youtube.com/@linksphotograph
+
+`尼康市场部部长`
+
+**the Global Face of Photography among uploads**
+
+这位直接重量级，拍了许多各地的风景/vlog，常驻 ~~SXZ的小~~ 日本，相机评测也很不错。
+
+建议先[看一看](https://www.bilibili.com/video/BV1s14y187Ny)（但b站没大会员看links真的会失去很多，尤其是当你上不了...）
+
+
+
+***
+
+## 老弟一号
+
+https://space.bilibili.com/178429408/?spm_id_from=333.999.0.0)
+
+其实不是很推荐，因为喜欢看的不用我推荐，不喜欢的推荐没用
+
+不过那天发现他在**乔**的关注列表了
+
+那这就不得不提到：
+
+## [H2元素实验室](https://space.bilibili.com/414878461/?spm_id_from=333.999.0.0)
+
+化学up，有很多实验可以看，但方程式一个也记不住
+
+自从看了这个再也不用写**H<sub>2</sub>SO<sub>4</sub>(浓)** 了毕竟**(con.)**多省事（考试除外，不然～）
+
+> con：**Concentrated solution**
+
+
+
+***
