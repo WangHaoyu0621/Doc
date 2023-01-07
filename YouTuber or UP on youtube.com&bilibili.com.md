@@ -2,7 +2,7 @@
 
 
 
-## **Chubbyemu**
+## Chubbyemu
 
 > https://space.bilibili.com/297786973
 >
