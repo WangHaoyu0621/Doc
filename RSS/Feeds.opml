@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Feeds</title>
+</head>
+<body>
+<outline type="rss" title="Aeronautics News" htmlUrl="http://www.nasa.gov/" xmlUrl="https://www.nasa.gov/rss/dyn/aeronautics.rss" text="Aeronautics News" />
+<outline xmlUrl="http://apod.nasa.gov/apod.rss" type="rss" text="APOD" title="APOD" htmlUrl="https://apod.nasa.gov/" />
+<outline text="Earth News" title="Earth News" type="rss" htmlUrl="http://www.nasa.gov/" xmlUrl="https://www.nasa.gov/rss/dyn/earth.rss" />
+<outline text="Education News" htmlUrl="http://www.nasa.gov/" title="Education News" xmlUrl="https://www.nasa.gov/rss/dyn/educationnews.rss" type="rss" />
+<outline htmlUrl="http://www.nasa.gov/" xmlUrl="https://www.nasa.gov/rss/dyn/hurricaneupdate.rss" type="rss" title="Hurricane Breaking News" text="Hurricane Breaking News" />
+<outline text="Nature Materials" type="rss" xmlUrl="https://www.nature.com/nmat.rss" title="Nature Materials" htmlUrl="http://feeds.nature.com/nmat/rss/current" />
+<outline xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" title="NASA Breaking News" type="rss" text="NASA Breaking News" htmlUrl="http://www.nasa.gov/" />
+<outline text="NASA Image of the Day" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" htmlUrl="http://www.nasa.gov/" type="rss" title="NASA Image of the Day" />
+<outline htmlUrl="http://www.nasa.gov/" xmlUrl="https://www.nasa.gov/rss/dyn/solar_system.rss" type="rss" title="Solar System and Beyond" text="Solar System and Beyond" />
+<outline xmlUrl="https://www.nasa.gov/rss/dyn/shuttle_station.rss" htmlUrl="http://www.nasa.gov/" type="rss" title="Space Station News" text="Space Station News" />
+<outline type="rss" htmlUrl="https://time.com" xmlUrl="http://feeds2.feedburner.com/time/topstories" text="TIME" title="TIME" />
+<outline xmlUrl="https://www.solidot.org/index.rss" title="奇客Solidot–传递最新科技情报" text="奇客Solidot–传递最新科技情报" type="rss" htmlUrl="https://www.solidot.org" />
+<outline xmlUrl="https://sspai.com/feed" title="少数派" type="rss" text="少数派" htmlUrl="https://sspai.com" />
+<outline xmlUrl="https://feedx.top/rss/huanqiukexue.xml" title="环球科学" htmlUrl="http://huanqiukexue.com" text="环球科学" type="rss" />
+<outline htmlUrl="http://www.zhihu.com" title="知乎每日精选" text="知乎每日精选" type="rss" xmlUrl="https://www.zhihu.com/rss" />
+</body>
+</opml>
